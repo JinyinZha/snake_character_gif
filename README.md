@@ -9,6 +9,10 @@ Creating a New Year greeting animation, as shown in the GIF below
 
 The main process involves loading an image data file that is broken down into individual strokes (from https://github.com/Lex-voda/Chinese-Character-Stroke-Sequence-Dataset). The thickest stroke is identified to define a path for movement. A snake will then move along this path. The snake is composed of a head and a body, with the head using a network image (https://pic.616pic.com/ys_bnew_img/00/50/82/CmwMozANM7.jpg). The body of the snake is essentially a scatter plot, with the points at the end of the snake's body gradually decreasing in size to form the shape of the tail.
 
+笔画数据文件需要clone https://github.com/Lex-voda/Chinese-Character-Stroke-Sequence-Dataset，运行run.py来获得。如果您有百度网盘，也可以直接下载，然后解压在本项目的文件夹下。链接：https://pan.baidu.com/s/1oye4fGHLLi5sgblYl7MYTA?pwd=wklz  提取码：wklz 
+
+The stroke data file needs to be cloned from https://github.com/Lex-voda/Chinese-Character-Stroke-Sequence-Dataset and run run.py to obtain it. If you have Baidu Cloud, you can also download it directly and then extract it into the folder of this project. Link: https://pan.baidu.com/s/1oye4fGHLLi5sgblYl7MYTA?pwd=wklz Extraction code: wklz.
+
 
 欢迎魔改
 
