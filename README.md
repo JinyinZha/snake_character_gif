@@ -1,6 +1,6 @@
-用于构建蛇年拜年动图，效果如下图所示：
+用于构建蛇年拜年动图，灵感来自小红书（http://xhslink.com/a/CYi73XPYWIM4 ）。效果如下图所示：
 
-Creating a New Year greeting animation, as shown in the GIF below
+Creating a New Year greeting animation, which is inspired by rednote (http://xhslink.com/a/CYi73XPYWIM4 ), as shown in the GIF below
 
 ![demo](https://github.com/user-attachments/assets/70171e69-cb9d-4ebb-8295-6bcc71fda045)
 
